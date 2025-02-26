@@ -1,3 +1,9 @@
+---
+layout: page
+title: "My first page"
+permalink: /250226/
+---
+
 # My First Blog Post
 
 Welcome to my blog! Here is an example of a LaTeX formula.
