@@ -1,0 +1,25 @@
+/* Increase overall font size and darken text */
+body {
+  font-size: 18px; /* Adjust as needed */
+  color: #222222; /* Darker text color */
+}
+
+/* Ensure headers are also properly styled */
+h1, h2, h3, h4, h5, h6 {
+  color: #111111; /* Even darker for emphasis */
+}
+
+/* Adjust post content */
+p {
+  line-height: 1.6;
+  color: #222222;
+}
+
+/* Adjust links to be readable */
+a {
+  color: #0056b3; /* Darker blue for better visibility */
+}
+
+a:hover {
+  color: #003366; /* Even darker on hover */
+}
