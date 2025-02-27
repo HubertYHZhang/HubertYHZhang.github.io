@@ -71,7 +71,7 @@ When $P<1$, $\alpha = 0$ and the supply curve is an upward sloping curve. When $
 If, in general, $\underline{u_A}$ is not 0, we should reconsider the conditions under which integration occurs. If $\underline{u_A}<1/2$, only the threshold changes, and the supply is positive only if $P$ is large enough to give $A$ a surplus no less than that.
 
 ![supply curve](https://github.com/HubertYHZhang/HubertYHZhang.github.io/raw/1963da5712a5263d96e5ae5a6219cd8ed6df0f4f/images/SCR-20250227-qxyw.png)
-*The authors connect the coexistence of both organizational forms with the persistence of productivity differences among firms, which is quite interesting!*
+*The authors connect the coexistence of both **organizational forms** with the persistence of **productivity differences** among firms, which is quite interesting!*
 
 If there is a supply shortage of $HQ$, we will see the coexistence of both forms in the equilibrium even after integration is preferred.
 
