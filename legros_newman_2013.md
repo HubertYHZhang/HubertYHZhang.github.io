@@ -80,3 +80,13 @@ Consider any demand function $D(P)$ that is positive and has finite elasticity a
 
 ## Supply shocks and "external effects"
 
+
+Integration or not does not only depend on one's own technology and manager's preferences, but also on prices, which is determined by others. Suppose a supply shock raises the success output to $R>1$ for a fraction $z$ of $B$ suppliers. For these enterprises, the output will be $Q^N(RP)\times R$ under non-integration and 1 under integration. Suppose the price threshold for integration is 1, then these firms choose to integrate when $PR>1$.
+
+Let demand be $D(P) = P^{-\varepsilon}\,(\varepsilon > 1)$. In the absence of the supply shock, the equilibrium price is 1. All integration (market clearing). If all firms get homogeneous shocks $R^*$, it is then shown that in the equilibrium all firms will be integrated.
+
+Under *heterogeneous* shocks, $z<1$. Some are affected by $R> R^*$, but the average productivity is $R^*$.
+
+$$zR + 1- z = R^*$$
+
+The affected firms will not reorganize, because the market price will always be higher than their threshold. But for the normal firms, some (all) of them need to reorganize to clear the market (their threshold is 1). Now the aggregate output is less than $R^*$. **Reorganizational dampening**: this is harmful for the consumers.
