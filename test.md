@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "My First Page"
 permalink: /250226/
 ---
 
