@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "My first page"
 permalink: /250226/
 ---
