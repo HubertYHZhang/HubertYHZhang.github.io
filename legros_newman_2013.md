@@ -53,4 +53,4 @@ c. Either ownership structure may be chosen when $P \geq 1$
    and $\lvert u_A - u_B \rvert = \frac{P}{1+P}$.
 
 
-![pareto frontier](https://github.com/HubertYHZhang/HubertYHZhang.github.io/blob/main/images/SCR-20250227-qiac.png)
+![pareto frontier](https://github.com/HubertYHZhang/HubertYHZhang.github.io/raw/main/images/SCR-20250227-qiac.png)
