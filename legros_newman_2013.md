@@ -21,6 +21,7 @@ The managers of the two parties have a private cost of making decisions. What is
 - *Feasibility*. The payoffs paid to the agents must be feasible within the coalition under the equilibrium price $P$.
 - *Stability*. No coalition can form and find feasible payoff for its members that are strictly greater than their equilibrium payoffs.
 - *Market clearing*. $S(P) = D(P)$.
+
 # Analysis
 ## Non-integration
 The unique Nash equilibrium will be
@@ -85,7 +86,7 @@ Integration or not does not only depend on one's own technology and manager's pr
 
 Let demand be $D(P) = P^{-\varepsilon}\,(\varepsilon > 1)$. In the absence of the supply shock, the equilibrium price is 1. All integration (market clearing). If all firms get homogeneous shocks $R^*$, it is then shown that in the equilibrium all firms will be integrated.
 
-Under *heterogeneous* shocks, $z<1$. Some are affected by $R> R^*$, but the average productivity is $R^*$.
+Under *heterogeneous* shocks, $z<1$. Some are affected by $R> R^\ast$, but the average productivity is $R^\ast$.
 
 $$zR + 1- z = R^*$$
 
