@@ -2,6 +2,7 @@
 layout: default
 title: "My first page"
 permalink: /250226/
+use_math: true
 ---
 
 # My First Blog Post
