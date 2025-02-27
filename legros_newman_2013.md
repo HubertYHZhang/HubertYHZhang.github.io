@@ -31,14 +31,16 @@ $$a = 1- s \frac{P}{1+P},\quad b=(1-s)\frac{P}{1-P}$$
 The expected resulted output
 $$Q^N(P)\equiv 1- \frac{1}{(1+P)^2}$$
 The Pareto frontier is obtained by changing $s$
+
 $$U^N(s,P)\equiv Q^N(P)P- (s^2+ (1-s)^2)\left(\frac{P}{1+P}\right)^2$$
+
 which is maximized at $s=\frac{1}{2}$ and minimized at $s=0$ or $1$.
 ## Integration
 Under integration, the $HQ$, if she has a positive stake in the enterprise, can choose to maximize the probability $(a=b)$ minimize the private costs of the managers $a=b=1/2$. So the Pareto frontier must be $u_B = P-1/2-u_A$. Notice that this is NOT first best because the $HQ$ does not fully consider the welfare of the managers.
 
 In general, the supplier market equilibrium, which determines the distribution of surplus and $s$ (?), as well as the product market equilibrium, which determines $P$, will jointly affect integration decision.
 
-The linear frontier of integration will intersect with the non-linear frontier of non-integration. The loci are given by $|u_A - u_B| = \frac{P}{1+P}$.
+The linear frontier of integration will intersect with the non-linear frontier of non-integration. The loci are given by $\lvert u_A - u_B \rvert = \frac{P}{1+P}$.
 
 **Proposition 1**
 a. Integration is chosen when product price $P > 1$ and 
@@ -50,30 +52,5 @@ b. Nonintegration is chosen when $P < 1$ or
 c. Either ownership structure may be chosen when $P \geq 1$ 
    and $\lvert u_A - u_B \rvert = \frac{P}{1+P}$.
 
-# Analysis
-## Non-integration
-The unique Nash equilibrium will be
-$$a = 1- s \frac{P}{1+P},\quad b=(1-s)\frac{P}{1-P}$$
-The expected resulted output
-$$Q^N(P)\equiv 1- \frac{1}{(1+P)^2}$$
-The Pareto frontier is obtained by changing $s$
-$$U^N(s,P)\equiv Q^N(P)P- (s^2+ (1-s)^2)\left(\frac{P}{1+P}\right)^2$$
-which is maximized at $s=\frac{1}{2}$ and minimized at $s=0$ or $1$.
-## Integration
-Under integration, the $HQ$, if she has a positive stake in the enterprise, can choose to maximize the probability $(a=b)$ minimize the private costs of the managers $a=b=1/2$. So the Pareto frontier must be $u_B = P-1/2-u_A$. Notice that this is NOT first best because the $HQ$ does not fully consider the welfare of the managers.
-
-In general, the supplier market equilibrium, which determines the distribution of surplus and $s$ (?), as well as the product market equilibrium, which determines $P$, will jointly affect integration decision.
-
-The linear frontier of integration will intersect with the non-linear frontier of non-integration. The loci are given by $|u_A - u_B| = \frac{P}{1+P}$.
-
-**Proposition 1**
-a. Integration is chosen when product price $P > 1$ and 
-   $\lvert u_A - u_B \rvert > \frac{P}{1+P}$.
-
-b. Nonintegration is chosen when $P < 1$ or 
-   $\lvert u_A - u_B \rvert < \frac{P}{1+P}$.
-
-c. Either ownership structure may be chosen when $P \geq 1$ 
-   and $\lvert u_A - u_B \rvert = \frac{P}{1+P}$.
 
 ![pareto frontier](https://github.com/HubertYHZhang/HubertYHZhang.github.io/blob/main/images/SCR-20250227-qiac.png)
