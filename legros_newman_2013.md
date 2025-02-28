@@ -4,7 +4,9 @@ title: "Legros and Newman 2013 A price theory of vertical and lateral integratio
 permalink: /legros_newman_2013
 ---
 *A model about integration and coordination in a market equilibrium.*
+
 # Settings
+
 **Production:**
 There is one consumer good, the production of with requires two parties, $A$ and $B$. Denote the decision of $A$ as $a\in [0,1]$ and similarly for $B$. The identity of the decision maker will be determined by the ownership structure. The final output is $1$ with a probability $1-(a-b)^2$.
 The managers of the two parties have a private cost of making decisions. What is easy for one is hard for the other. Specifically, manager $A$'s utility is $y^A - (1-a)^2$, and $y^B - b^2$ for $B$.
