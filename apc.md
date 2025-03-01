@@ -20,7 +20,7 @@ But this is idiosyncratic. We need to separate out the mean.
 
 $$w_{i,t} = p_{t} + h_{c(i),t} + \varepsilon_{i,t}$$
 
-where $c(i)$ is the cohort of individual $i$ and $h_{c(i),t} = E[h_{i,t} | c(i), t]$ is the mean human capital of cohort $c(i)$ at time $t$.
+where $c(i)$ is the cohort of individual $i$ and $h_{c(i),t} = E[h_{i,t} \lvert c(i), t]$ is the mean human capital of cohort $c(i)$ at time $t$.
 
 But the two components are not observable and cannot be identified. We further decompose the human capital into age and period effects.
 
@@ -38,7 +38,7 @@ But now the equation is still not identified. We can first derive some propertie
 
 We can construct a cross-sectional age-earnings profile by averaging the earnings of people of the same age but different cohorts.
 
-$$w(k;t) = E_i[w_{i,t} | c(i) = t-k, t] = p(t) + s(t-k) + r(k)$$
+$$w(k;t) = E_i[w_{i,t} \lvert c(i) = t-k, t] = p(t) + s(t-k) + r(k)$$
 
 Because of zero conditional mean, the random error is no longer in the equation.
 
@@ -50,7 +50,7 @@ The profile is increasing when the life-cycle human capital growth is faster tha
 
 As for the within-cohort profile,
 
-$$\tilde{w}(k; c) = E_i[w_{i,t} | c(i) = c, t = c+k] = p(c+k) + s(c) + r(k)$$
+$$\tilde{w}(k; c) = E_i[w_{i,t} \lvert c(i) = c, t = c+k] = p(c+k) + s(c) + r(k)$$
 
 The "golden age" in this within-cohort profile is the age that maximizes this profile.
 
