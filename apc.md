@@ -56,8 +56,11 @@ The "golden age" in this within-cohort profile is the age that maximizes this pr
 
 $$\frac{\partial}{\partial k} \tilde{w}(k; c) = p'(c+k) + r'(k) = 0$$
 
-In general, the golden age is not the same in the cross-sectional and within-cohort profiles.
+In general, the golden age is **not the same** in the cross-sectional and within-cohort profiles. But say if inter-cohort human capital barely changes and so is the time effect, the golden age in both profiles should be similar. (Expericence effect dominates.)
 
 # Identification
 
+![identification](https://github.com/HubertYHZhang/HubertYHZhang.github.io/raw/main/images/iden_nx.png)
+
+$R$ is a period when the experience effect is zero. The actual process is more complicated than the graph suggests. It uses a combination of Deaton method and LMPQS (2018) assumption. Basically, it keeps updating the guess of a linear time effect such that the identification constraint is satisfied.
 
