@@ -5,7 +5,7 @@ title: "Home"
 
 # Welcome to My Site
 
-<link rel="icon" type="image/x-icon" href="/images/my-notion-face-customized.png">
+<link rel="icon" type="image/x-icon" href="images/my-notion-face-customized.png">
 
 ## Subpages:
 <ul>
