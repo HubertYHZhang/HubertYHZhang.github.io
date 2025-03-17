@@ -7,8 +7,6 @@ title: "Home"
 
 <!-- <link rel="icon" type="image/x-icon" href="images/my-notion-face-customized.png"> -->
 
-<img src="./images/ZHANG-Yuhao-scaled-940x1000-ct.webp" alt="Alt text">
-
 ## Subpages:
 <ul>
   {% for page in site.pages %}
