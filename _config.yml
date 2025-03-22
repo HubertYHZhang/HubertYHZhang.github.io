@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Yuhao's hotelpage
-description: I'm a PhD student in economics at the University of Hong Kong.I will post some notes of studying economics here.
+description: I'm a PhD student in economics at the University of Hong Kong. I will post some notes of studying economics here.
 head:
   - "<script type=\"text/javascript\" async
       src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML\"></script>"
