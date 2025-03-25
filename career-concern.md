@@ -33,9 +33,11 @@ $$ \mathbb{E}[\eta \lvert y^{t}] = \frac{h_{t}\mathbb{E}[\eta\lvert y^{t-1}] + h
 $$ h_{t+1} = h_{t} + h_\varepsilon = h_1 + th_\varepsilon $$
 
 Using the law of motion of $h_t$, we can get
+
 $$ \mathbb{E}[\eta \lvert y^{t-1}] = \frac{h_1m_1 + h_\varepsilon \sum_1^{t-1} z_s}{h_1 + t h_\varepsilon} $$
 
 Therefore, the expected wage in period $t$ is
+
 $$ Ew_t(y^{t-1}) = \frac{h_1 m_1}{h_t} + \frac{h_\varepsilon}{h_t}\sum_{s=1}^{t-1} (m_1 + a_s - Ea_s^\ast(y^{s-1})) + Ea_t^\ast(y^{t-1}) $$
 
 The marginal return of effort in one period is $h_\varepsilon/h_t$ for every period in the future. Therefore, the optimal effort is given by

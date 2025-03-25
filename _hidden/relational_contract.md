@@ -13,3 +13,5 @@ We can look at the payoff frontier (which we can derive later). Kind of like thi
 Suppose an equilibrium payoff vector is our focus. The payoff may be supported by either $L$ or $R$ action.
 
 $$ f(u_1) = \max_{a\in\{L,R\}}{(1-\delta) \underbrace{F_2(a)}_{\text{short-term payoff}} + \delta f(u_1^a)} $$
+
+*The advantage of normalizing payoffs is that we can make sure the payoff profile is that we can make sure the profile is a convex combination of pure action equilibria.*
